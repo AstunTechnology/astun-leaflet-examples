@@ -6,3 +6,5 @@ You can also view the example pages thanks to rawgithub.com here:
 
 * [ADS OS Open WMS](http://rawgithub.com/AstunTechnology/astun-leaflet-examples/master/ads/ads_wms.html)
 * [iShare GeoJSON](http://rawgithub.com/AstunTechnology/astun-leaflet-examples/master/ishare/ishare_geojson.html)
+
+Also see [astun-ol3-examples](https://github.com/AstunTechnology/astun-ol3-examples).
